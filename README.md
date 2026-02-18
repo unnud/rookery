@@ -1,6 +1,7 @@
-# Rails Vibe Coding Wiki (KR)
+# Rookery
 
-Rails + Ruby + "vibe coding"(LLM-assisted dev) 관련 내용을 한국 맥락에서 계속 업데이트하는 지식 저장소입니다.
+Rookery는 **에이전틱 코딩 + 1인 개발/솔로프리너 + Vanilla Rails 8 + Ruby**를 중심으로,
+일과 프로그래밍의 기쁨을 기록/편집하는 공개 매거진(겸 위키)입니다.
 
 - 핵심 목표: 빠르게 만들고, 나중에 다시 봐도 유지보수 가능한 형태로 정리
 - 원칙: 요약은 짧게, 근거(링크/날짜)는 명확하게, 추측은 라벨링

@@ -1,6 +1,7 @@
 # AGENTS.md (Repo Instructions)
 
-This repository is a continuously updated knowledge base about Rails + Ruby + vibe coding in the Korean context.
+This repository is the source for **Rookery**: a continuously updated magazine/wiki about agentic coding for
+solo developers/solopreneurs, built around Vanilla Rails 8 + Ruby in the Korean context.
 
 ## North Star
 

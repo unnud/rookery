@@ -1,6 +1,7 @@
-# Rails Vibe Coding Wiki (KR)
+# Rookery
 
-이 위키는 Rails + Ruby + LLM(Claude/Cursor/Gemini 등) 조합으로 1인 개발/사이드 프로젝트/빠른 프로토타이핑을 할 때 쓸만한 패턴과 사례를 정리합니다.
+Rookery는 **에이전틱 코딩(LLM-assisted dev) + 1인 개발/솔로프리너 + Vanilla Rails 8 + Ruby**를
+주제로 한 공개 매거진(겸 위키)입니다.
 
 ## 빠른 링크
 

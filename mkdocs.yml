@@ -1,6 +1,7 @@
-site_name: Rails Vibe Coding Wiki (KR)
-site_description: Rails + Ruby + vibe coding knowledge base for the Korean context
-repo_name: rails-vibe-wiki
+site_name: Rookery
+site_description: Agentic coding + solo dev/solopreneur + Vanilla Rails 8 + Ruby (KR)
+repo_name: unnud/rookery
+repo_url: https://github.com/unnud/rookery
 
 theme:
   name: material
