@@ -4,6 +4,7 @@
 
 ## 빠른 링크
 
+- [Notes](notes/index.md)
 - [Stack](stack.md)
 - [Prompts](prompts.md)
 - [Style Guide](STYLE.md)
