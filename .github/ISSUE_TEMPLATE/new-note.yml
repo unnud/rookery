@@ -1,0 +1,36 @@
+name: New note
+description: Add a new case study / video note / prompt recipe
+title: "[note] "
+labels: ["note"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Note type
+      options:
+        - case-studies
+        - videos
+        - prompts
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: "예: Rails 8 + Hotwire로 대시보드 만들기"
+    validations:
+      required: true
+  - type: input
+    id: sources
+    attributes:
+      label: Sources (URLs)
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: textarea
+    id: summary
+    attributes:
+      label: What should this note cover?
+      placeholder: "핵심 요약, 배운 점, 적용 포인트"
+    validations:
+      required: true

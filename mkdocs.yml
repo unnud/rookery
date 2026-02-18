@@ -1,0 +1,31 @@
+site_name: Rails Vibe Coding Wiki (KR)
+site_description: Rails + Ruby + vibe coding knowledge base for the Korean context
+repo_name: rails-vibe-wiki
+
+theme:
+  name: material
+  language: ko
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Stack: stack.md
+  - Prompts: prompts.md
+  - Style: STYLE.md
+  - Case Studies:
+      - case-studies/index.md
+  - Videos:
+      - videos/index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
