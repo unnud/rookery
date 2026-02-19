@@ -12,6 +12,7 @@ Rookery는 **에이전틱 코딩(LLM-assisted dev) + 1인 개발/솔로프리너
 
 ## 최근 업데이트
 
+- [Note: 노정석 대표 최근 발언·발행 글 리서치 (2026-02-19)](notes/2026-02-19-no-jeongseok-recent-statements.md)
 - [Case study: Shoutout.io를 20분만에 대체한 사례](case-studies/2026-01-29-gergely-shoutout.md)
 - [Video: AI로 Rails 웹 프레임워크 사용한다면?](videos/2026-01-21-rails-ai-agent.md)
 - [Video: 혼자서 대박난 1인 개발자들은 어떻게 성공했나?](videos/2026-02-01-solo-dev-success.md)

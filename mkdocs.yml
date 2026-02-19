@@ -15,6 +15,7 @@ nav:
   - Home: index.md
   - Notes:
       - Overview: notes/index.md
+      - 노정석 대표 최근 발언/발행 글 (2026-02-19): notes/2026-02-19-no-jeongseok-recent-statements.md
       - Rails + Vibe Coding Snapshot (2026-02-18): notes/2026-02-18-rails-vibe-coding-korea.md
   - Stack: stack.md
   - Prompts: prompts.md
