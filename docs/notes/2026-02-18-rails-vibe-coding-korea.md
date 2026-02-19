@@ -56,5 +56,10 @@ Rails 8 앱이야.
 
 ## 다음 액션
 
-- 케이스 스터디는 `docs/case-studies/`에 개별 파일로 분리
-- 영상/아티클별로 "핵심 요지 + 적용 포인트 + 프롬프트" 형태로 축적
+관련 노트
+
+- [Video: AI로 Rails 웹 프레임워크 사용한다면? | Ruby on rails AI agent](../videos/2026-01-21-rails-ai-agent.md)
+- [Video: 혼자서 대박난 1인 개발자들은 어떻게 성공했나?](../videos/2026-02-01-solo-dev-success.md)
+- [Video: Rails 풀스택 학습자를 위한 오픈소스 살펴보기](../videos/2026-02-18-rails-open-source-roadmap.md)
+- [Video: EP 86. 진짜 내 일을 해결하는 Agentic Workflow](../videos/2026-02-18-agentic-workflow.md)
+- [Case study: Shoutout.io를 20분만에 대체한 사례 (Gergely Orosz)](../case-studies/2026-01-29-gergely-shoutout.md)

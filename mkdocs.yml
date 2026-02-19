@@ -14,14 +14,20 @@ theme:
 nav:
   - Home: index.md
   - Notes:
-      - notes/index.md
+      - Overview: notes/index.md
+      - Rails + Vibe Coding Snapshot (2026-02-18): notes/2026-02-18-rails-vibe-coding-korea.md
   - Stack: stack.md
   - Prompts: prompts.md
   - Style: STYLE.md
   - Case Studies:
-      - case-studies/index.md
+      - Overview: case-studies/index.md
+      - Shoutout.io 20분 대체 사례 (2026-01-29): case-studies/2026-01-29-gergely-shoutout.md
   - Videos:
-      - videos/index.md
+      - Overview: videos/index.md
+      - Rails AI Agent (2026-01-21): videos/2026-01-21-rails-ai-agent.md
+      - 1인 개발 성공 사례 (2026-02-01): videos/2026-02-01-solo-dev-success.md
+      - Rails 오픈소스 로드맵 (2026-02-18): videos/2026-02-18-rails-open-source-roadmap.md
+      - Agentic Workflow EP86 (2026-02-18): videos/2026-02-18-agentic-workflow.md
 
 markdown_extensions:
   - admonition
